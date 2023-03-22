@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/15-Supabase-login-auth/static/css/main.5da20ae4.css",
+    "main.js": "/15-Supabase-login-auth/static/js/main.784e3c76.js",
+    "index.html": "/15-Supabase-login-auth/index.html",
+    "main.5da20ae4.css.map": "/15-Supabase-login-auth/static/css/main.5da20ae4.css.map",
+    "main.784e3c76.js.map": "/15-Supabase-login-auth/static/js/main.784e3c76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da20ae4.css",
+    "static/js/main.784e3c76.js"
+  ]
+}
